@@ -1,10 +1,14 @@
-# Karmada
-![Karmada-logo](docs/images/Karmada-logo-horizontal-color.png)
+<img align="right" width="289px" src="/karmada-io/karmada/raw/master/docs/images/Karmada-logo-horizontal-color.png">
 
-Karmada (Kubernetes Armada) is an Open, Cloud-Native, Multi-Cloud, Container Orchestration Engine.
+# Karmada
+
+## Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
+
+Karmada (Kubernetes Armada) is a Kubernetes management system that enables you to run your cloud-native applications across multiple Kubernetes clusters and clouds, with no changes to your applications. By speaking Kubernetes-native APIs and providing advanced scheduling capabilities, Karmada enables truly open, multi-cloud Kubernetes.
 
 Karmada aims to provide turnkey automation for multi-cluster application management in multi-cloud and hybrid cloud scenarios,
-and intended to realize multi-cloud centralized management, high availability, failure recovery and traffic scheduling.
+with key features such as centralized multi-cloud management, high availability, failure recovery, and traffic scheduling.
+
 
 ## Why Karmada:
 - __K8s Native API Compatible__
