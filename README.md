@@ -1,6 +1,6 @@
-<img align="right" width="289px" src="/docs/images/Karmada-logo-icon-color.png">
-
 # Karmada
+
+![Karmada-logo](docs/images/Karmada-logo-horizontal-color.png)
 
 ## Karmada: Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
 
